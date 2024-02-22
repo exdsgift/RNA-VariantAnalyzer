@@ -1,4 +1,5 @@
 ## SARS CoV2 RNA Sequence Profiler
+Analyzing RNA sequences of COVID variants, including Delta and Omicron. Through metadata analysis, we'll download data from an NIH database and align sequences to identify mutation points.
 
 Documentations:
 
