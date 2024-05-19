@@ -10,3 +10,6 @@ Documentations:
 [Severe acute respiratory syndrome coronavirus 2](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/2697049/)
 
 [SARS-CoV-2 Variant Classifications and Definitions](https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html)
+
+### snapshot
+![algorithm](https://github.com/exdsgift/RNA-VariantAnalyzer/blob/main/images/code.png)
